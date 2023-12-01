@@ -2,7 +2,6 @@ const {Telegraf} = require("telegraf")
 const {connectToMongo} = require("./DB/connect.js")
 const start = require("./commands/start.js")
 const fetch = require("./commands/fetch")
-const {} = require("node-fetch")
 
 // dotenv // config //
 require("dotenv").config();
