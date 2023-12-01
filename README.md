@@ -13,3 +13,13 @@ this bot use Unsplash api to search images.
 3. After thouse write <code>npm start</code> or  <code>node index js</code>
 
 Your Telegram bot is ready to use 🎉
+
+## Images from Bot 👇
+
+<img src="https://github.com/ZuxriddinSaidaxmadoof/unsplash_bot/blob/main/images/bot1.png"></img>
+
+<img src="https://github.com/ZuxriddinSaidaxmadoof/unsplash_bot/blob/main/images/Screenshot%202023-12-01%20143924.png"></img>
+
+<img src="https://github.com/ZuxriddinSaidaxmadoof/unsplash_bot/blob/main/images/Screenshot%202023-12-01%20143817.png"></img>
+
+
